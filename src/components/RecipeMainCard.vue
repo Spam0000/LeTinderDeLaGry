@@ -1,17 +1,17 @@
 <template>
   <div class="card">
-    <img :src="recipe.image" :alt="recipe.name" class="recipe-image" />
+    <img :src="getImagePath(recipe.image)" :alt="recipe.name" class="recipe-image" />
     <h1 class="recipe-title">{{ recipe.name }}</h1>
     <p class="recipe-description">{{ recipe.description }}</p>
     <div class="actions">
       <button class="like-btn" @click="$emit('like-recipe', recipe)">
-        <img src="@/assets/logo/heart.png" alt="Valider" />
+        <img src="@/assets/logo/heart.png" alt="Aimer" />
       </button>
       <button class="adore-btn" @click="$emit('adore-recipe', recipe)">
-        <img src="@/assets/logo/star.png" alt="Adorer" />
+        <img src="@/assets/logo/star.png" alt="Favoris" />
       </button>
       <button class="reject-btn" @click="$emit('reject-recipe')">
-        <img src="@/assets/logo/cross.png" alt="Refuser" />
+        <img src="@/assets/logo/cross.png" alt="Rejeter" />
       </button>
     </div>
   </div>
@@ -19,11 +19,20 @@
 
 <script>
 export default {
-  name: "RecipeMainCard",
   props: {
     recipe: {
       type: Object,
       required: true,
+    },
+  },
+  methods: {
+    getImagePath(image) {
+      try {
+        return require(`@/assets/recipe/${image}`);
+      } catch (err) {
+        console.error("Image introuvable :", image);
+        return require("@/assets/recipe/placeholder.jpg"); // Placeholder si image introuvable
+      }
     },
   },
 };
@@ -51,6 +60,7 @@ export default {
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 10px;
+  color: #fff;
 }
 
 .recipe-description {

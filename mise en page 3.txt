@@ -1,7 +1,3 @@
-Voici une autre liste de **25 recettes différentes** avec leurs noms et ingrédients :
-
----
-
 ### 51. **Salade Niçoise**
 - **Ingrédients** : Thon, œufs durs, haricots verts, pommes de terre, olives noires, tomates, huile d'olive, vinaigre, basilic.
 
@@ -76,7 +72,3 @@ Voici une autre liste de **25 recettes différentes** avec leurs noms et ingréd
 
 ### 75. **Cheesecake au Citron**
 - **Ingrédients** : Biscuits, beurre, fromage à la crème, sucre, citron, œufs.
-
----
-
-Si vous souhaitez les instructions détaillées pour ces recettes, faites-le-moi savoir ! 😊

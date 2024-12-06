@@ -1,7 +1,3 @@
-Voici une autre liste de **25 recettes différentes** avec leurs noms et ingrédients :
-
----
-
 ### 26. **Risotto aux Champignons**
 - **Ingrédients** : Riz arborio, champignons, bouillon de légumes, vin blanc, parmesan, oignon, ail, beurre.
 
@@ -76,7 +72,3 @@ Voici une autre liste de **25 recettes différentes** avec leurs noms et ingréd
 
 ### 50. **Cannelés Bordelais**
 - **Ingrédients** : Lait, farine, sucre, œufs, beurre, vanille, rhum.
-
----
-
-Si vous avez besoin d'instructions pour une ou plusieurs de ces recettes, dites-le-moi ! 😊

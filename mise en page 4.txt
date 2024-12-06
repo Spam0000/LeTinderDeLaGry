@@ -1,7 +1,3 @@
-Voici une dernière liste de **25 recettes différentes** avec leurs noms et ingrédients :
-
----
-
 ### 76. **Soupe Thaï aux Crevettes (Tom Yum)**
 - **Ingrédients** : Crevettes, lait de coco, citronnelle, galanga, champignons, citron vert, coriandre, piment, sauce poisson.
 
@@ -76,7 +72,3 @@ Voici une dernière liste de **25 recettes différentes** avec leurs noms et ing
 
 ### 100. **Soupe de Tomates Rôties**
 - **Ingrédients** : Tomates, ail, oignon, huile d’olive, bouillon, crème.
-
----
-
-Si vous avez besoin d’une recette spécifique avec ses étapes, dites-le-moi ! 😊
