@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Risotto aux Champignons",
+    "image": "/assets/recipe/risotto-aux-champignons.jpg",
+    "description": "Riz arborio, champignons, bouillon de légumes, vin blanc, parmesan, oignon, ail, beurre."
+  },
+  {
+    "name": "Poulet au Citron",
+    "image": "/assets/recipe/poulet-au-citron.jpg",
+    "description": "Filets de poulet, citron, ail, beurre, bouillon de poulet, persil, huile d’olive, sel, poivre."
+  },
+  {
+    "name": "Soupe Minestrone",
+    "image": "/assets/recipe/soupe-minestrone.jpg",
+    "description": "Haricots rouges, courgettes, carottes, céleri, tomates, pâtes, bouillon de légumes, basilic."
+  },
+  {
+    "name": "Couscous aux Légumes",
+    "image": "/assets/recipe/couscous-aux-legumes.jpg",
+    "description": "Semoule de couscous, pois chiches, carottes, courgettes, oignons, épices, bouillon de légumes."
+  },
+  {
+    "name": "Poulet Tikka Masala",
+    "image": "/assets/recipe/poulet-tikka-masala.jpg",
+    "description": "Poulet, yaourt, épices, tomate, crème, oignon, ail, gingembre, huile végétale."
+  },
+  {
+    "name": "Gnocchi à la Sauce Crème",
+    "image": "/assets/recipe/gnocchi-a-la-sauce-creme.jpg",
+    "description": "Gnocchi, crème fraîche, parmesan, ail, persil, beurre, sel, poivre."
+  },
+  {
+    "name": "Paella",
+    "image": "/assets/recipe/paella.jpg",
+    "description": "Riz, poulet, crevettes, moules, chorizo, poivrons, tomates, safran, bouillon."
+  },
+  {
+    "name": "Chili Con Carne",
+    "image": "/assets/recipe/chili-con-carne.jpg",
+    "description": "Viande hachée, haricots rouges, tomates, oignon, ail, épices, poivrons."
+  },
+  {
+    "name": "Quiche Lorraine",
+    "image": "/assets/recipe/quiche-lorraine.jpg",
+    "description": "Pâte brisée, lardons, crème fraîche, œufs, fromage râpé, muscade, sel, poivre."
+  },
+  {
+    "name": "Poulet au Miel et Moutarde",
+    "image": "/assets/recipe/poulet-au-miel-et-moutarde.jpg",
+    "description": "Poulet, miel, moutarde, ail, sauce soja, huile d’olive, sel, poivre."
+  },
+  {
+    "name": "Burger Végétarien",
+    "image": "/assets/recipe/burger-vegetarien.jpg",
+    "description": "Pain burger, galette de légumes, laitue, tomate, fromage, avocat, sauce au yaourt."
+  },
+  {
+    "name": "Tagine d'Agneau",
+    "image": "/assets/recipe/tagine-d-agneau.jpg",
+    "description": "Agneau, pois chiches, abricots secs, amandes, épices, oignon, ail, bouillon."
+  },
+  {
+    "name": "Soupe Pho",
+    "image": "/assets/recipe/soupe-pho.jpg",
+    "description": "Bouillon de bœuf, nouilles de riz, bœuf tranché, herbes fraîches, citron vert, sauce poisson."
+  },
+  {
+    "name": "Omelette aux Champignons",
+    "image": "/assets/recipe/omelette-aux-champignons.jpg",
+    "description": "Œufs, champignons, crème, beurre, sel, poivre, ciboulette."
+  },
+  {
+    "name": "Poulet Rôti",
+    "image": "/assets/recipe/poulet-roti.jpg",
+    "description": "Poulet entier, ail, thym, beurre, huile d’olive, sel, poivre."
+  },
+  {
+    "name": "Curry de Légumes",
+    "image": "/assets/recipe/curry-de-legumes.jpg",
+    "description": "Légumes variés (pommes de terre, carottes, pois chiches), lait de coco, curry, oignon, ail, gingembre."
+  },
+  {
+    "name": "Poke Bowl",
+    "image": "/assets/recipe/poke-bowl.jpg",
+    "description": "Riz, saumon cru, avocat, concombre, algues, sauce soja, graines de sésame."
+  },
+  {
+    "name": "Bœuf Bourguignon",
+    "image": "/assets/recipe/boeuf-bourguignon.jpg",
+    "description": "Bœuf, vin rouge, carottes, oignons, champignons, ail, lardons, thym."
+  },
+  {
+    "name": "Roulés de Saumon",
+    "image": "/assets/recipe/roules-de-saumon.jpg",
+    "description": "Saumon fumé, fromage frais, ciboulette, citron, tortillas."
+  },
+  {
+    "name": "Soupe de Lentilles",
+    "image": "/assets/recipe/soupe-de-lentilles.jpg",
+    "description": "Lentilles, carottes, céleri, oignons, tomates, bouillon de légumes, épices."
+  },
+  {
+    "name": "Raviolis Ricotta-Épinards",
+    "image": "/assets/recipe/raviolis-ricotta-epinards.jpg",
+    "description": "Pâtes fraîches, ricotta, épinards, parmesan, beurre, ail, crème."
+  },
+  {
+    "name": "Pizza au Chorizo",
+    "image": "/assets/recipe/pizza-au-chorizo.jpg",
+    "description": "Pâte à pizza, sauce tomate, mozzarella, chorizo, poivrons, origan."
+  },
+  {
+    "name": "Wok de Crevettes",
+    "image": "/assets/recipe/wok-de-crevettes.jpg",
+    "description": "Nouilles chinoises, crevettes, légumes variés, sauce soja, gingembre, ail."
+  },
+  {
+    "name": "Moussaka",
+    "image": "/assets/recipe/moussaka.jpg",
+    "description": "Aubergines, viande hachée, tomates, béchamel, fromage râpé, ail, oignon."
+  },
+  {
+    "name": "Cannelés Bordelais",
+    "image": "/assets/recipe/canneles-bordelais.jpg",
+    "description": "Lait, farine, sucre, œufs, beurre, vanille, rhum."
+  }
+]
+
+[
+  {
+    "name": "Salade Niçoise",
+    "image": "/assets/recipe/salade-nicoise.jpg",
+    "description": "Thon, œufs durs, haricots verts, pommes de terre, olives noires, tomates, huile d'olive, vinaigre, basilic."
+  },
+  {
+    "name": "Falafels",
+    "image": "/assets/recipe/falafels.jpg",
+    "description": "Pois chiches, ail, coriandre, cumin, persil, farine, huile, sel, poivre."
+  },
+  {
+    "name": "Croque-Monsieur",
+    "image": "/assets/recipe/croque-monsieur.jpg",
+    "description": "Pain de mie, jambon, fromage (emmental ou gruyère), béchamel, beurre."
+  },
+  {
+    "name": "Poulet au Paprika",
+    "image": "/assets/recipe/poulet-au-paprika.jpg",
+    "description": "Filets de poulet, paprika, crème fraîche, oignon, ail, huile d’olive, sel, poivre."
+  },
+  {
+    "name": "Bœuf Stroganoff",
+    "image": "/assets/recipe/boeuf-stroganoff.jpg",
+    "description": "Bœuf, champignons, crème fraîche, oignon, moutarde, beurre, paprika."
+  },
+  {
+    "name": "Biryani au Poulet",
+    "image": "/assets/recipe/biryani-au-poulet.jpg",
+    "description": "Riz basmati, poulet, yaourt, épices, oignons, ail, gingembre, safran."
+  },
+  {
+    "name": "Clafoutis aux Cerises",
+    "image": "/assets/recipe/clafoutis-aux-cerises.jpg",
+    "description": "Cerises, farine, sucre, lait, œufs, beurre, vanille."
+  },
+  {
+    "name": "Gaufres Maison",
+    "image": "/assets/recipe/gaufres-maison.jpg",
+    "description": "Farine, œufs, lait, sucre, beurre, levure chimique, vanille."
+  },
+  {
+    "name": "Bouillabaisse",
+    "image": "/assets/recipe/bouillabaisse.jpg",
+    "description": "Poissons variés, moules, crevettes, tomates, fenouil, ail, safran, huile d'olive."
+  },
+  {
+    "name": "Carbonnade Flamande",
+    "image": "/assets/recipe/carbonnade-flamande.jpg",
+    "description": "Bœuf, bière, oignons, pain d'épices, moutarde, thym, laurier."
+  },
+  {
+    "name": "Poulet Teriyaki",
+    "image": "/assets/recipe/poulet-teriyaki.jpg",
+    "description": "Filets de poulet, sauce soja, sucre, ail, gingembre, huile, graines de sésame."
+  },
+  {
+    "name": "Risotto aux Asperges",
+    "image": "/assets/recipe/risotto-aux-asperges.jpg",
+    "description": "Riz arborio, asperges, bouillon, vin blanc, parmesan, oignon, beurre."
+  },
+  {
+    "name": "Pâte Carbonara",
+    "image": "/assets/recipe/pate-carbonara.jpg",
+    "description": "Spaghetti, lardons, œufs, parmesan, ail, poivre."
+  },
+  {
+    "name": "Rouleaux de Printemps",
+    "image": "/assets/recipe/rouleaux-de-printemps.jpg",
+    "description": "Feuilles de riz, crevettes, vermicelles de riz, carottes, laitue, menthe, sauce soja."
+  },
+  {
+    "name": "Bananes Frits",
+    "image": "/assets/recipe/bananes-frits.jpg",
+    "description": "Bananes, farine, sucre, lait, huile."
+  },
+  {
+    "name": "Soupe de Potiron",
+    "image": "/assets/recipe/soupe-de-potiron.jpg",
+    "description": "Potiron, oignon, crème, bouillon, beurre, sel, poivre."
+  },
+  {
+    "name": "Poulet Yakitori",
+    "image": "/assets/recipe/poulet-yakitori.jpg",
+    "description": "Filets de poulet, sauce soja, sucre, saké, ail, gingembre."
+  },
+  {
+    "name": "Côte de Porc Sauce Moutarde",
+    "image": "/assets/recipe/cote-de-porc-sauce-moutarde.jpg",
+    "description": "Côte de porc, moutarde, crème fraîche, vin blanc, ail, beurre."
+  },
+  {
+    "name": "Cake aux Olives",
+    "image": "/assets/recipe/cake-aux-olives.jpg",
+    "description": "Farine, œufs, lait, olives, jambon, fromage râpé, levure chimique."
+  },
+  {
+    "name": "Ratatouille au Four",
+    "image": "/assets/recipe/ratatouille-au-four.jpg",
+    "description": "Aubergines, courgettes, tomates, poivrons, ail, huile d'olive, herbes de Provence."
+  },
+  {
+    "name": "Crêpes Suzette",
+    "image": "/assets/recipe/crepes-suzette.jpg",
+    "description": "Farine, œufs, lait, beurre, sucre, orange, Grand Marnier."
+  },
+  {
+    "name": "Soufflé au Fromage",
+    "image": "/assets/recipe/souffle-au-fromage.jpg",
+    "description": "Lait, farine, œufs, fromage râpé, beurre, sel, poivre."
+  },
+  {
+    "name": "Tartiflette",
+    "image": "/assets/recipe/tartiflette.jpg",
+    "description": "Pommes de terre, lardons, reblochon, crème fraîche, oignons."
+  },
+  {
+    "name": "Saumon Gravlax",
+    "image": "/assets/recipe/saumon-gravlax.jpg",
+    "description": "Saumon frais, sel, sucre, aneth, citron."
+  },
+  {
+    "name": "Cheesecake au Citron",
+    "image": "/assets/recipe/cheesecake-au-citron.jpg",
+    "description": "Biscuits, beurre, fromage à la crème, sucre, citron, œufs."
+  }
+]
+
+
+[
+  {
+    "name": "Soupe Thaï aux Crevettes (Tom Yum)",
+    "image": "/assets/recipe/soupe-thai-aux-crevettes-tom-yum.jpg",
+    "description": "Crevettes, lait de coco, citronnelle, galanga, champignons, citron vert, coriandre, piment, sauce poisson."
+  },
+  {
+    "name": "Galettes Bretonnes",
+    "image": "/assets/recipe/galettes-bretonnes.jpg",
+    "description": "Farine de sarrasin, eau, œufs, jambon, fromage râpé, beurre."
+  },
+  {
+    "name": "Poulet Basquaise",
+    "image": "/assets/recipe/poulet-basquaise.jpg",
+    "description": "Poulet, poivrons, tomates, oignons, ail, huile d’olive, piment d’Espelette."
+  },
+  {
+    "name": "Riz Cantonais",
+    "image": "/assets/recipe/riz-cantonais.jpg",
+    "description": "Riz, œufs, petits pois, carottes, jambon, sauce soja, huile de sésame."
+  },
+  {
+    "name": "Poulet à la Crème et aux Champignons",
+    "image": "/assets/recipe/poulet-a-la-creme-et-aux-champignons.jpg",
+    "description": "Filets de poulet, champignons, crème fraîche, ail, beurre, persil."
+  },
+  {
+    "name": "Gratin Dauphinois",
+    "image": "/assets/recipe/gratin-dauphinois.jpg",
+    "description": "Pommes de terre, crème liquide, ail, beurre, noix de muscade, sel, poivre."
+  },
+  {
+    "name": "Tarte Tatin",
+    "image": "/assets/recipe/tarte-tatin.jpg",
+    "description": "Pommes, pâte feuilletée, sucre, beurre."
+  },
+  {
+    "name": "Curry Rouge Thaïlandais",
+    "image": "/assets/recipe/curry-rouge-thailandais.jpg",
+    "description": "Poulet, pâte de curry rouge, lait de coco, poivrons, aubergines, basilic thaï, sauce poisson."
+  },
+  {
+    "name": "Steak Frites",
+    "image": "/assets/recipe/steak-frites.jpg",
+    "description": "Steak de bœuf, pommes de terre, beurre, huile, sel, poivre."
+  },
+  {
+    "name": "Maki Sushi",
+    "image": "/assets/recipe/maki-sushi.jpg",
+    "description": "Riz à sushi, algues nori, poisson cru (saumon ou thon), concombre, avocat, vinaigre de riz."
+  },
+  {
+    "name": "Tartare de Bœuf",
+    "image": "/assets/recipe/tartare-de-boeuf.jpg",
+    "description": "Bœuf haché, câpres, cornichons, échalotes, moutarde, œuf, huile d’olive."
+  },
+  {
+    "name": "Salade de Chèvre Chaud",
+    "image": "/assets/recipe/salade-de-chevre-chaud.jpg",
+    "description": "Fromage de chèvre, pain, salade verte, noix, miel, vinaigrette."
+  },
+  {
+    "name": "Velouté de Courgettes",
+    "image": "/assets/recipe/veloute-de-courgettes.jpg",
+    "description": "Courgettes, pommes de terre, oignon, bouillon de légumes, crème, sel, poivre."
+  },
+  {
+    "name": "Tarte aux Fraises",
+    "image": "/assets/recipe/tarte-aux-fraises.jpg",
+    "description": "Pâte sablée, fraises, crème pâtissière, sucre glace."
+  },
+  {
+    "name": "Gyozas au Poulet",
+    "image": "/assets/recipe/gyozas-au-poulet.jpg",
+    "description": "Poulet haché, chou, gingembre, ail, pâte à gyoza, sauce soja."
+  },
+  {
+    "name": "Côtes d'Agneau Grillées",
+    "image": "/assets/recipe/cotes-d-agneau-grillees.jpg",
+    "description": "Côtes d’agneau, ail, romarin, huile d’olive, sel, poivre."
+  },
+  {
+    "name": "Frites de Patates Douces",
+    "image": "/assets/recipe/frites-de-patates-douces.jpg",
+    "description": "Patates douces, huile d’olive, paprika, sel, poivre."
+  },
+  {
+    "name": "Crumble aux Pommes",
+    "image": "/assets/recipe/crumble-aux-pommes.jpg",
+    "description": "Pommes, farine, beurre, sucre, cannelle."
+  },
+  {
+    "name": "Salade Waldorf",
+    "image": "/assets/recipe/salade-waldorf.jpg",
+    "description": "Pommes, céleri, noix, raisins secs, mayonnaise, citron."
+  },
+  {
+    "name": "Raviolis au Saumon",
+    "image": "/assets/recipe/raviolis-au-saumon.jpg",
+    "description": "Pâtes fraîches, saumon, ricotta, citron, aneth."
+  },
+  {
+    "name": "Gratin de Légumes",
+    "image": "/assets/recipe/gratin-de-legumes.jpg",
+    "description": "Courgettes, aubergines, tomates, crème, fromage râpé."
+  },
+  {
+    "name": "Poulet au Fromage",
+    "image": "/assets/recipe/poulet-au-fromage.jpg",
+    "description": "Filets de poulet, fromage râpé, crème fraîche, oignons, beurre."
+  },
+  {
+    "name": "Ceviche de Poisson",
+    "image": "/assets/recipe/ceviche-de-poisson.jpg",
+    "description": "Poisson blanc, citron vert, oignon rouge, coriandre, piment."
+  },
+  {
+    "name": "Pain Perdu",
+    "image": "/assets/recipe/pain-perdu.jpg",
+    "description": "Pain rassis, lait, œufs, sucre, beurre."
+  },
+  {
+    "name": "Soupe de Tomates Rôties",
+    "image": "/assets/recipe/soupe-de-tomates-roties.jpg",
+    "description": "Tomates, ail, oignon, huile d’olive, bouillon, crème."
+  }
+]

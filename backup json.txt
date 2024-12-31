@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Raclette",
+    "image": "@/assets/recipe/raclette.jpg",
+    "description": "Une recette classique : pommes de terre, fromage à raclette, charcuterie, et légumes."
+  },
+  {
+    "name": "Pizza Margherita",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Une délicieuse pizza avec de la sauce tomate, de la mozzarella et du basilic frais."
+  },
+  {
+    "name": "Salade César",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Une salade composée de laitue, croûtons, poulet grillé et une sauce crémeuse."
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Spaghetti, bœuf haché, sauce tomate, oignon, ail, huile d’olive, carotte, céleri, sel, poivre."
+  },
+  {
+    "name": "Chicken Curry ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Poulet, poudre de curry, lait de coco, oignon, ail, gingembre, pâte de tomate, huile végétale, sel, poivre."
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Brocoli, carotte, poivrons, sauce soja, gingembre, ail, huile de sésame, maïzena, sucre."
+  },
+  {
+    "name": "Margherita Pizza ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Pâte à pizza, sauce tomate, mozzarella, basilic frais, huile d’olive, sel."
+  },
+  {
+    "name": "Beef Tacos ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Bœuf haché, tortillas, laitue, tomate, fromage cheddar, crème sure, assaisonnement pour tacos."
+  },
+  {
+    "name": "Caesar Salad ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Laitue romaine, croûtons, sauce Caesar, parmesan, anchois, ail."
+  },
+  {
+    "name": "Tomato Soup ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Tomates, oignon, ail, bouillon de légumes, crème, sel, poivre."
+  },
+  {
+    "name": "Grilled Cheese Sandwich ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Pain, fromage cheddar, beurre."
+  },
+  {
+    "name": "Lasagna ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Feuilles de lasagnes, bœuf haché, sauce tomate, ricotta, mozzarella, parmesan, ail."
+  },
+  {
+    "name": "Fish and Chips", 
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Filets de poisson, pommes de terre, farine, levure chimique, œuf, lait, huile, sel, vinaigre."
+  },
+  {
+    "name": "Butter Chicken ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Poulet, beurre, purée de tomate, crème, ail, gingembre, épices, yaourt."
+  },
+  {
+    "name": "Shrimp Scampi ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Crevettes, ail, beurre, jus de citron, vin blanc, persil, spaghetti, sel, poivre."
+  },
+  {
+    "name": "Hamburger ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Viande hachée, pains burger, laitue, tomate, fromage, oignon, cornichons, ketchup, moutarde."
+  },
+  {
+    "name": "Ratatouille ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Courgettes, aubergines, tomates, poivrons, oignon, ail, huile d’olive, herbes de Provence."
+  },
+  {
+    "name": "Pancakes ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Farine, lait, œufs, sucre, beurre, levure chimique, sel."
+  },
+  {
+    "name": "Pad Thai ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Nouilles de riz, crevettes, œufs, pousses de haricot mungo, cacahuètes, sauce soja, pâte de tamarin, ail."
+  },
+  {
+    "name": "Greek Salad", 
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Concombre, tomates, feta, oignon rouge, olives, huile d’olive, jus de citron, origan."
+  },
+  {
+    "name": "Chocolate Cake", 
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Farine, cacao en poudre, sucre, beurre, œufs, levure chimique, lait, extrait de vanille."
+  },
+  {
+    "name": "French Onion Soup", 
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Oignons, bouillon de bœuf, beurre, farine, pain, fromage Gruyère, thym, feuille de laurier."
+  },
+  {
+    "name": "Chicken Alfredo ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Fettuccine, filet de poulet, crème épaisse, parmesan, ail, beurre, sel, poivre."
+  },
+  {
+    "name": "Caprese Salad ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Tomates, mozzarella, basilic, huile d’olive, vinaigre balsamique, sel, poivre."
+  },
+  {
+    "name": "Sushi Rolls ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Riz à sushi, feuilles de nori, saumon, avocat, concombre, vinaigre de riz, sucre, sel."
+  },
+  {
+    "name": "Tiramisu ",
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Biscuits à la cuillère, café, mascarpone, œufs, sucre, cacao en poudre."
+  },
+  {
+    "name": "Spring Rolls", 
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Feuilles de riz, crevettes, vermicelles de riz, laitue, carottes, herbes fraîches, sauce hoisin."
+  },
+  {
+    "name": "Mac and Cheese", 
+    "image": "/assets/recipe/pizza.jpg",
+    "description": "Macaroni, cheddar, lait, beurre, farine, sel, poivre."
+  }
+]

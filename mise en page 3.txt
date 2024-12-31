@@ -1,0 +1,74 @@
+### 51. **Salade Niçoise**
+- **Ingrédients** : Thon, œufs durs, haricots verts, pommes de terre, olives noires, tomates, huile d'olive, vinaigre, basilic.
+
+### 52. **Falafels**
+- **Ingrédients** : Pois chiches, ail, coriandre, cumin, persil, farine, huile, sel, poivre.
+
+### 53. **Croque-Monsieur**
+- **Ingrédients** : Pain de mie, jambon, fromage (emmental ou gruyère), béchamel, beurre.
+
+### 54. **Poulet au Paprika**
+- **Ingrédients** : Filets de poulet, paprika, crème fraîche, oignon, ail, huile d’olive, sel, poivre.
+
+### 55. **Bœuf Stroganoff**
+- **Ingrédients** : Bœuf, champignons, crème fraîche, oignon, moutarde, beurre, paprika.
+
+### 56. **Biryani au Poulet**
+- **Ingrédients** : Riz basmati, poulet, yaourt, épices, oignons, ail, gingembre, safran.
+
+### 57. **Clafoutis aux Cerises**
+- **Ingrédients** : Cerises, farine, sucre, lait, œufs, beurre, vanille.
+
+### 58. **Gaufres Maison**
+- **Ingrédients** : Farine, œufs, lait, sucre, beurre, levure chimique, vanille.
+
+### 59. **Bouillabaisse**
+- **Ingrédients** : Poissons variés, moules, crevettes, tomates, fenouil, ail, safran, huile d'olive.
+
+### 60. **Carbonnade Flamande**
+- **Ingrédients** : Bœuf, bière, oignons, pain d'épices, moutarde, thym, laurier.
+
+### 61. **Poulet Teriyaki**
+- **Ingrédients** : Filets de poulet, sauce soja, sucre, ail, gingembre, huile, graines de sésame.
+
+### 62. **Risotto aux Asperges**
+- **Ingrédients** : Riz arborio, asperges, bouillon, vin blanc, parmesan, oignon, beurre.
+
+### 63. **Pâte Carbonara**
+- **Ingrédients** : Spaghetti, lardons, œufs, parmesan, ail, poivre.
+
+### 64. **Rouleaux de Printemps**
+- **Ingrédients** : Feuilles de riz, crevettes, vermicelles de riz, carottes, laitue, menthe, sauce soja.
+
+### 65. **Bananes Frits**
+- **Ingrédients** : Bananes, farine, sucre, lait, huile.
+
+### 66. **Soupe de Potiron**
+- **Ingrédients** : Potiron, oignon, crème, bouillon, beurre, sel, poivre.
+
+### 67. **Poulet Yakitori**
+- **Ingrédients** : Filets de poulet, sauce soja, sucre, saké, ail, gingembre.
+
+### 68. **Côte de Porc Sauce Moutarde**
+- **Ingrédients** : Côte de porc, moutarde, crème fraîche, vin blanc, ail, beurre.
+
+### 69. **Cake aux Olives**
+- **Ingrédients** : Farine, œufs, lait, olives, jambon, fromage râpé, levure chimique.
+
+### 70. **Ratatouille au Four**
+- **Ingrédients** : Aubergines, courgettes, tomates, poivrons, ail, huile d'olive, herbes de Provence.
+
+### 71. **Crêpes Suzette**
+- **Ingrédients** : Farine, œufs, lait, beurre, sucre, orange, Grand Marnier.
+
+### 72. **Soufflé au Fromage**
+- **Ingrédients** : Lait, farine, œufs, fromage râpé, beurre, sel, poivre.
+
+### 73. **Tartiflette**
+- **Ingrédients** : Pommes de terre, lardons, reblochon, crème fraîche, oignons.
+
+### 74. **Saumon Gravlax**
+- **Ingrédients** : Saumon frais, sel, sucre, aneth, citron.
+
+### 75. **Cheesecake au Citron**
+- **Ingrédients** : Biscuits, beurre, fromage à la crème, sucre, citron, œufs.

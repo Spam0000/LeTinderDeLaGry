@@ -1,0 +1,49 @@
+Name: Spaghetti Bolognese Ingrédients : Spaghetti, bœuf haché, sauce tomate, oignon, ail, huile d’olive, carotte, céleri, sel, poivre.
+
+Name: Chicken Curry Ingrédients : Poulet, poudre de curry, lait de coco, oignon, ail, gingembre, pâte de tomate, huile végétale, sel, poivre.
+
+Name: Vegetable Stir Fry Ingrédients : Brocoli, carotte, poivrons, sauce soja, gingembre, ail, huile de sésame, maïzena, sucre.
+
+Name: Margherita Pizza Ingrédients : Pâte à pizza, sauce tomate, mozzarella, basilic frais, huile d’olive, sel.
+
+Name: Beef Tacos Ingrédients : Bœuf haché, tortillas, laitue, tomate, fromage cheddar, crème sure, assaisonnement pour tacos.
+
+Name: Caesar Salad Ingrédients : Laitue romaine, croûtons, sauce Caesar, parmesan, anchois, ail.
+
+Name: Tomato Soup Ingrédients : Tomates, oignon, ail, bouillon de légumes, crème, sel, poivre.
+
+Name: Name: Grilled Cheese Sandwich Ingrédients : Pain, fromage cheddar, beurre.
+
+Name: Lasagna Ingrédients : Feuilles de lasagnes, bœuf haché, sauce tomate, ricotta, mozzarella, parmesan, ail.
+
+Name: Fish and Chips Ingrédients : Filets de poisson, pommes de terre, farine, levure chimique, œuf, lait, huile, sel, vinaigre.
+
+Name: Butter Chicken Ingrédients : Poulet, beurre, purée de tomate, crème, ail, gingembre, épices, yaourt.
+
+Name: Shrimp Scampi Ingrédients : Crevettes, ail, beurre, jus de citron, vin blanc, persil, spaghetti, sel, poivre.
+
+Name: Hamburger Ingrédients : Viande hachée, pains burger, laitue, tomate, fromage, oignon, cornichons, ketchup, moutarde.
+
+Name: Ratatouille Ingrédients : Courgettes, aubergines, tomates, poivrons, oignon, ail, huile d’olive, herbes de Provence.
+
+Name: Pancakes Ingrédients : Farine, lait, œufs, sucre, beurre, levure chimique, sel.
+
+Name: Pad Thai Ingrédients : Nouilles de riz, crevettes, œufs, pousses de haricot mungo, cacahuètes, sauce soja, pâte de tamarin, ail.
+
+Name: Greek Salad Ingrédients : Concombre, tomates, feta, oignon rouge, olives, huile d’olive, jus de citron, origan.
+
+Name: Chocolate Cake Ingrédients : Farine, cacao en poudre, sucre, beurre, œufs, levure chimique, lait, extrait de vanille.
+
+Name: French Onion Soup Ingrédients : Oignons, bouillon de bœuf, beurre, farine, pain, fromage Gruyère, thym, feuille de laurier.
+
+Name: Chicken Alfredo Ingrédients : Fettuccine, filet de poulet, crème épaisse, parmesan, ail, beurre, sel, poivre.
+
+Name: Caprese Salad Ingrédients : Tomates, mozzarella, basilic, huile d’olive, vinaigre balsamique, sel, poivre.
+
+Name: Sushi Rolls Ingrédients : Riz à sushi, feuilles de nori, saumon, avocat, concombre, vinaigre de riz, sucre, sel.
+
+Name: Tiramisu Ingrédients : Biscuits à la cuillère, café, mascarpone, œufs, sucre, cacao en poudre.
+
+Name: Spring Rolls Ingrédients : Feuilles de riz, crevettes, vermicelles de riz, laitue, carottes, herbes fraîches, sauce hoisin.
+
+Name: Mac and Cheese Ingrédients : Macaroni, cheddar, lait, beurre, farine, sel, poivre.
